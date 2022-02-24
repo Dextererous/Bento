@@ -12,7 +12,7 @@ const CONFIG = {
 
   // General
   name: 'Tanish Raj',
-  imageBackground: false,
+  imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: false,
 
@@ -61,7 +61,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://nz.mail.yahoo.com/d/folders/1?guce_referrer=aHR0cHM6Ly9sb2dpbi55YWhvby5jb20v&guce_referrer_sig=AQAAABIcbpU-bZHamYrvZ7nY8hTVgByKSeVH4ki99URgCRgLtrnMxsf7vo5fyFWlnDADiwcA7GK4A1cSoJNblwHxkFHfPjQEgKAGemqdN_jtGCqWHvlBrSxyfIcQwDLCiwxSVWc6QPS3aD7VpezYCkNeaRDg0VDMPBg6HTnucY_mxuvc',
     },
     {
       id: '3',
@@ -71,9 +71,9 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Google',
+      icon: 'Google',
+      link: 'https://www.google.com/',
     },
     {
       id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Music',
+      icon: 'headphones',
+      link: 'https://open.spotify.com',
     },
   ],
 
